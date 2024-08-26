@@ -18,14 +18,14 @@ const FooterBase = () => {
           <div className="flex flex-col justify-center items-center">
             <Image
               src="/images/logo.png"
-              width={250}
-              height={200}
+              width={1920}
+              height={1080}
               alt="Logo"
               className="p-5 w-[250px] max-xl:w-[200px]"
             />
             <div className="px-2 text-xs flex flex-col justify-center items-center font-montserrat text-slate-600">
-              <p>explore@mammothmedia.ca</p>
-              <p>call us at +919910007924</p>
+              <p>explore@tridcreations.ca</p>
+              <p>call us at +919910007979</p>
             </div>
           </div>
           <div className="grid grid-cols-2 gap-8 sm:mt-4 sm:grid-cols-4 sm:gap-6 mt-5">
@@ -70,7 +70,7 @@ const FooterBase = () => {
         </div>
         <Footer.Divider />
         <div className="w-full sm:flex sm:items-center sm:justify-between">
-          <Footer.Copyright href="#" by="Mammoth" year={2023} />
+          <Footer.Copyright href="#" by="TriD Creations" year={2023} />
           <div className="mt-4 flex space-x-6 sm:mt-0 sm:justify-center">
             <Footer.Icon href="#" icon={BsFacebook} />
             <Footer.Icon href="#" icon={BsInstagram} />

@@ -97,7 +97,7 @@ export const gems_jewelleryCarouselContent: CarouselContentType[] =
     {
       heading: "Gems & Jewellery",
       subtext:
-        "At Mamoth Media Labs, we understand the essence of bringing your jewelry creations to life. We specialize in harnessing cutting-edge technology to elevate your designs through intricate 3D modeling and captivating animations. With our expertise, your vision transforms into stunning, tangible reality. ",
+        "At TriD Creations, we understand the essence of bringing your jewelry creations to life. We specialize in harnessing cutting-edge technology to elevate your designs through intricate 3D modeling and captivating animations. With our expertise, your vision transforms into stunning, tangible reality. ",
     },
     {
       heading: "Craftsmanship Meets Innovation",

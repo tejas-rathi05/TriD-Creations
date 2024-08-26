@@ -2,7 +2,7 @@ import TextImage from "@/components/TextImage";
 import React from "react";
 
 const page = () => {
-  const text = `Bring your products into the real world with our Augmented Reality (AR) integration services. With Mamoth Media Labs, customers can virtually place your products in their own environment using their smartphones or tablets. `;
+  const text = `Bring your products into the real world with our Augmented Reality (AR) integration services. With TriD Creations, customers can virtually place your products in their own environment using their smartphones or tablets. `;
   return (
     <div className="">
       <div className="">

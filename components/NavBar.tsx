@@ -14,15 +14,15 @@ const NavBar = () => {
     setShowMediaIcons(!showMediaIcons);
   };
   return (
-    <div className="w-full fixed top-0 z-50 bg-white h-[85px] flex justify-between items-center pl-20 max-[1200px]:pl-10 pr-5">
+    <div className="w-full fixed top-0 left-0 z-50 bg-white h-[85px] flex justify-between items-center px-10 md:px-24">
       <div>
         <Link href="/">
           <Image
             src="/images/logo.png"
-            width={250}
-            height={200}
+            width={1920}
+            height={1080}
             alt="Logo"
-            className="mr-3 w-[250px] max-xl:w-[200px]"
+            className="w-fit h-[75px] object-contain"
           />
         </Link>
       </div>

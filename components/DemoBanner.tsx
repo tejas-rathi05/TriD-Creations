@@ -18,7 +18,7 @@ const DemoBanner = () => {
           <span className="max-[1200px]:flex justify-center text-center">
             For Demo, Write to Us :
             <a href="#" className="underline ml-1">
-              hello@mammoth.com
+              hello@tridcreations.com
             </a>
           </span>
         </h1>

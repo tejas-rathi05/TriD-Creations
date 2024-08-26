@@ -25,7 +25,7 @@ const Page = () => {
           </h2>
           <div className="w-full flex max-lg:justify-center">
             <p className="max-w-lg font-normal text-gray-600 text-base py-3 max-lg:text-center">
-              At Mamoth Media Labs, we believe that every idea has the potential
+              At TriD Creations, we believe that every idea has the potential
               to be a masterpiece.<strong> Our team of passionate artists, animators, and technologists come together to transform concepts into stunning 3D animations </strong>
               that transcend the ordinary. With a commitment to excellence and
               an eye for detail, we strive to create visual narratives that
@@ -51,7 +51,7 @@ const Page = () => {
           </h2>
           <div className="w-full flex justify-center items-center">
             <p className="max-w-lg font-normal text-gray-600 text-base py-3 text-center">
-              What sets Mamoth Media Labs apart is our unwavering commitment to
+              What sets TriD Creations apart is our unwavering commitment to
               pushing the envelope of what&apos;s possible in the realm of 3D
               animation. From conceptualization to execution, we leverage
               <strong> cutting-edge technology</strong> and
@@ -78,7 +78,7 @@ const Page = () => {
               privilege of collaborating with clients across various industries,
               delivering animations that not only meet but
               <strong> exceed expectations.</strong> From concept development to
-              the final frame, Mamoth Media Labs brings precision, creativity,
+              the final frame, TriD Creations brings precision, creativity,
               and technical expertise to every project.
             </p>
           </div>

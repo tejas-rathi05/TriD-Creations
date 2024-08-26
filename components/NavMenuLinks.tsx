@@ -77,9 +77,9 @@ const NavMenuLinks = ({ isOpen, onClose }: any) => {
       )}
       <div className="flex justify-between items-center mt-6 p-8 h-20">
         <Image
-          src="/images/logo-white.png"
-          width={200}
-          height={200}
+          src="/images/logo.png"
+          width={1920}
+          height={1080}
           alt="Logo"
           className="mr-3 w-[200px] max-xl:w-[200px] object-contain"
         />
